@@ -1,5 +1,5 @@
 # Ace-Of-Spades-Club
-In this project, I used flexbox to design and build the layout for a peach company’s homepage. 
+In this project, I used flexbox to design and build the layout for a poker club's homepage while also focusing on responsiveness.
 
 **Link to project:** https://ross-brown.github.io/Ace-of-Spades-Club/index.html
 

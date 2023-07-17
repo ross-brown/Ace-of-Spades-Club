@@ -62,7 +62,7 @@ header ul {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    min-height: 50rem;
+    min-height: 51rem;
     width: 100%;
     align-items: center;
     justify-content: center;
@@ -223,6 +223,11 @@ footer {
 
     .miss-text h2 {
         position: static;
+        font-size: 1.5rem;
+    }
+
+    .miss-text p {
+        font-size: 1rem;
     }
 
 
